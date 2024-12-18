@@ -1,0 +1,2 @@
+1. una plantilla en python se refiere a un diseño o estructura predefinida que sirve como modelo para crear o manipular contenido de forma dinamica
+2. un widget de tkinter es un objeto de python que representa un elemento de la interfaz de usuario de un aplicacion y que contiene eventos.
